@@ -1,7 +1,7 @@
 // Code your design here
 //------------------------------------------------------------------------------
 //File       : mux2to1.sv
-//Author     : Sanmitha Mujumdar/1BM23EC232
+//Author     : SSANJAY BS /1BM23EC231
 //Created    : 2026-02-02
 //Module     : and_gate
 //Project    : SystemVerilog and Verification (23EC6PE2SV),

@@ -2,7 +2,7 @@
 // or browse Examples
 //------------------------------------------------------------------------------
 //File       : mux2to1.sv
-//Author     : Sanmitha Mujumdar/1BM23EC232
+//Author     : SANJAY BS /1BM23EC231
 //Created    : 2026-01-23
 //Module     : tb
 //Project    : SystemVerilog and Verification (23EC6PE2SV),

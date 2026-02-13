@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 //File       : siso.sv
-//Author     : Sanmitha Mujumdar/1BM23EC232
+//Author     : SANJAY BS /1BM23EC231
 //Created    : 2026-02-02
 //Module     : siso
 //Project    : SystemVerilog and Verification (23EC6PE2SV),

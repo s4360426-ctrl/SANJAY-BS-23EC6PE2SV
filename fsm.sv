@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 //File       : fsm_101.sv
-//Author     : Sanmitha Mujumdar/1BM23EC232
+//Author     : SSANJAY BS /1BM23EC231
 //Created    : 2026-01-28
 //Module     : fsm_101
 //Project    : SystemVerilog and Verification (23EC6PE2SV),
